@@ -11,11 +11,12 @@ You can implement this in any language of your choice. You can also implement in
 For example:
 
 
-Input: [ [1, 1, 0, 1, 0],
-         [1, 1, 0, 0, 0],
-         [0, 0, 1, 0, 0],
-         [0, 0, 0, 1, 1]
-       ]
+Input: [
+[1, 1, 0, 1, 0],
+[1, 1, 0, 0, 0],
+[0, 0, 1, 0, 0],
+[0, 0, 0, 1, 1]
+]
 
 Output: Largest island size: 4
 
