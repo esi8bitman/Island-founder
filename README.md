@@ -11,23 +11,22 @@ You can implement this in any language of your choice. You can also implement in
 For example:
 
 
-Input: [
-[1, 1, 0, 1, 0],
-[1, 1, 0, 0, 0],
-[0, 0, 1, 0, 0],
-[0, 0, 0, 1, 1]
-]
-
+Input: [<br />
+       [1, 1, 0, 1, 0],<br />
+       [1, 1, 0, 0, 0],<br />
+       [0, 0, 1, 0, 0],<br />
+       [0, 0, 0, 1, 1]<br />
+       ]<br />
+       
 Output: Largest island size: 4
 
-Input: [ [1, 0, 0, 0, 0, 0, 0], 
-       [0, 1, 0, 0, 0, 0, 0], 
-       [0, 1, 1, 0, 0, 0, 0], 
-       [0, 0, 0, 1, 1, 1, 0], 
-       [0, 0, 0, 1, 1, 0, 0], 
-       [0, 0, 0, 1, 1, 0, 0] 
-       ]
-
+Input: [ [1, 0, 0, 0, 0, 0, 0], <br />
+       [0, 1, 0, 0, 0, 0, 0], <br />
+       [0, 1, 1, 0, 0, 0, 0], <br />
+       [0, 0, 0, 1, 1, 1, 0], <br />
+       [0, 0, 0, 1, 1, 0, 0], <br />
+       [0, 0, 0, 1, 1, 0, 0] <br />
+       ]<br />
 
 Output:
 Largest island size: 7
